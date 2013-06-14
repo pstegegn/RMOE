@@ -1,0 +1,15 @@
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\MwareInterface\MwareSampleProject\MwareSampleProject\bin\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\MwareInterface\MwareSampleProject\MwareSampleProject\bin\Debug\MwareSampleProject.pdb
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\MwareInterface\MwareSampleProject\MwareSampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\MwareInterface\MwareSampleProject\MwareSampleProject\obj\x86\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\MwareInterface\MwareSampleProject\MwareSampleProject\obj\x86\Debug\MwareSampleProject.pdb
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareSampleProject\bin\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareSampleProject\bin\Debug\MwareSampleProject.pdb
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareSampleProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareSampleProject\obj\x86\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareSampleProject\obj\x86\Debug\MwareSampleProject.pdb
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareKeyboard\bin\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareKeyboard\bin\Debug\MwareSampleProject.pdb
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareKeyboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareKeyboard\obj\x86\Debug\MwareSampleProject.exe
+C:\Users\paulos\Documents\Visual Studio 2010\Projects\RMOE_Thesis_Resources\MwareKeyboard\obj\x86\Debug\MwareSampleProject.pdb
